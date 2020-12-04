@@ -1,5 +1,5 @@
 
-GIT_REPO = r'C:\Users\Yaron Shamul\Documents\GitHub\reviewdb.xlsx\.git'  # make sure .git folder is properly configured
+GIT_REPO = r'C:\Users\Yaron Shamul\Documents\GitHub\reviewdb.xlsx'  # make sure .git folder is properly configured
 COMMIT_MESSAGE = 'comment from python script'
 
 from git import Repo 
