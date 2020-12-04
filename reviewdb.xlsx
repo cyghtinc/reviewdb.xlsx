@@ -1,14 +1,14 @@
-                        appid                              keyword  ... blue   done
-0      block.chain.technology                blockchain technology  ...   no    yes
-1    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no    yes
-2    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no    yes
-3    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no    yes
-4    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no    yes
-..                        ...                                  ...  ...  ...    ...
-436           duty.pare.myapp                            duty free  ...   no     no
-437           duty.pare.myapp                            duty free  ...   no     no
-438           duty.pare.myapp                            duty free  ...   no     no
-439           duty.pare.myapp                            duty free  ...   no     no
-440           duty.pare.myapp                            duty free  ...   no  yaron
+                        appid                              keyword  ... blue done
+0      block.chain.technology                blockchain technology  ...   no  yes
+1    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no  yes
+2    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no  yes
+3    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no  yes
+4    com.sugar.powerfulquotes  powerful positive motivation quotes  ...   no  yes
+..                        ...                                  ...  ...  ...  ...
+436           duty.pare.myapp                            duty free  ...   no   no
+437           duty.pare.myapp                            duty free  ...   no   no
+438           duty.pare.myapp                            duty free  ...   no   no
+439           duty.pare.myapp                            duty free  ...   no   no
+440           duty.pare.myapp                            duty free  ...   no   no
 
 [441 rows x 8 columns]
