@@ -1,5 +1,5 @@
 
-GIT_REPO = r'.'  # make sure .git folder is properly configured
+GIT_REPO = '.'  # make sure .git folder is properly configured
 COMMIT_MESSAGE = 'comment from python script'
 
 from git import Repo 
